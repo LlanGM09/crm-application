@@ -1,0 +1,25 @@
+body{
+  background-color: #f8f9fa;
+}
+
+.form-container{
+  max-width: 550px;
+  margin: auto;
+}
+
+
+/*Button */
+.btn-register{
+  font-size: 1.1rem;
+  color: white;
+  background-color: #a44c34;
+}
+
+.btn-register:hover{
+  background-color: #873f2c;
+}
+
+.container a{
+  color: #a44c34;
+
+}
